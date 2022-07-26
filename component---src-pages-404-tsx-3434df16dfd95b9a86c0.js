@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[218],{3727:function(e,a,n){n.r(a);var l=n(7294),s={color:"#232129",padding:"96px",fontFamily:"-apple-system, Roboto, sans-serif, serif"};a.default=function(){return l.createElement("main",{style:s},l.createElement("span",{role:"img","aria-label":"Pensive emoji"},"😔"))}}}]);
-//# sourceMappingURL=component---src-pages-404-tsx-3434df16dfd95b9a86c0.js.map
